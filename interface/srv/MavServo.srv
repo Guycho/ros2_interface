@@ -1,0 +1,4 @@
+int8 pin
+float32 value
+---
+bool success

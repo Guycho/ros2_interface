@@ -1,0 +1,19 @@
+std_msgs/Header header
+
+float32 throttle
+float32 steering
+bool left_arrow
+bool right_arrow
+bool up_arrow
+bool down_arrow
+bool sel
+bool ch
+bool plus
+bool minus
+bool left_trim_l
+bool left_trim_r
+bool right_trim_l
+bool right_trim_r
+bool edge_switch
+bool bottom_switch
+bool new_data
